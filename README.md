@@ -4,9 +4,9 @@ Two-page Power BI report covering **Sales Performance** and **Customer Demograph
 You can access the cleaned dataset here: [TheLook Sales Dataset ('Sales_data.xlsx')](Sales_data.xlsx)
 ##Dashboard Preview
 ###Sales Performance (2025)
-![Sales Performance](page1_sales_performance.pns)
+![Sales Performance](page1_sales_performance.png)
 ###Customer Demographic & Behavior (2025)
-
+![Sales Performance](page2_customer_behavior.png)
 ##2025 KPI (Completed Orders)
 - **Total Revenue:** $651,250
 - **Revenue Growth YoY:** 45.52% Increase
@@ -17,4 +17,4 @@ You can access the cleaned dataset here: [TheLook Sales Dataset ('Sales_data.xls
 - **Returned Rate:** 10%
 - **Unique Customers:** 73000
 - **Order per Customer:** 1,04
-- 
+- **Customer Growth YoY:** 46,19%
