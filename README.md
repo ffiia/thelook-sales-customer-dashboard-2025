@@ -18,3 +18,5 @@ You can access the cleaned dataset here: [TheLook Sales Dataset ('Sales_data.xls
 - **Unique Customers:** 73000
 - **Order per Customer:** 1,04
 - **Customer Growth YoY:** 46,19%
+## DAX Measures and Metric
+You can access the DAX formulas here: [Dax Measures('dax_measures.md')](dax.measures.md)
