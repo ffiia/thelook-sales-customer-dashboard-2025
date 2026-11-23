@@ -1,13 +1,13 @@
-#TheLook E-commerce Dashboard (2025)
+# TheLook E-commerce Dashboard (2025)
 Two-page Power BI report covering **Sales Performance** and **Customer Demographic & Behavior** for 2025 based on the TheLook e-commerce dataset.
-##Cleanded Dataset
+## Cleanded Dataset
 You can access the cleaned dataset here: [TheLook Sales Dataset ('Sales_data.xlsx')](Sales_data.xlsx)
-##Dashboard Preview
-###Sales Performance (2025)
+## Dashboard Preview
+### Sales Performance (2025)
 ![Sales Performance](page1_sales_performance.png)
-###Customer Demographic & Behavior (2025)
+### Customer Demographic & Behavior (2025)
 ![Sales Performance](page2_customer_behavior.png)
-##2025 KPI (Completed Orders)
+## 2025 KPI (Completed Orders)
 - **Total Revenue:** $651,250
 - **Revenue Growth YoY:** 45.52% Increase
 - **Lost Revenue (Cancelled & Return):** $661,030
