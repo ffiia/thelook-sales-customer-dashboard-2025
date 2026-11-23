@@ -1,7 +1,7 @@
 # TheLook E-commerce Dashboard (2025)
 Two-page Power BI report covering **Sales Performance** and **Customer Demographic & Behavior** for 2025 based on the TheLook e-commerce dataset.
 ## Cleanded Dataset
-You can access the cleaned dataset here: [TheLook Sales Dataset ('Sales_data.xlsx')](Sales_data.xlsx)
+You can access the cleaned dataset here: [TheLook Sales Dataset](Sales_data.xlsx)
 ## Dashboard Preview
 ### Sales Performance (2025)
 ![Sales Performance](page1_sales_performance.png)
@@ -19,4 +19,4 @@ You can access the cleaned dataset here: [TheLook Sales Dataset ('Sales_data.xls
 - **Order per Customer:** 1,04
 - **Customer Growth YoY:** 46,19%
 ## DAX Measures and Metric
-You can access the DAX formulas here: [Dax Measures('dax_measures.md')](dax.measures.md)
+You can access the DAX formulas here: [Dax Measures](dax.measures.md)
